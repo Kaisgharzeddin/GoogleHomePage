@@ -56,7 +56,4 @@ CSS
 
 ## Forventet resultat
 
-![Image_1](./bootstrap.png)
-![Image_2](./es6.jpg)
-![Image_3](./images/test.jpg)
-![Image_4](./images/test.jpg)
+![Image_1](./Skjermbilde%202024-09-27%20135340.png)
