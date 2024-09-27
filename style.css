@@ -1,0 +1,189 @@
+* {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.nav1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.gmail-images {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+}
+
+.about-store {
+  display: flex;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.about {
+  padding: 10px;
+}
+.store {
+  padding: 10px;
+}
+.gmail {
+  padding: 10px;
+}
+.images {
+  padding: 10px;
+}
+
+.gmail-images:hover,
+.about-store:hover {
+  cursor: pointer;
+}
+
+.iconmenu {
+  width: 25px;
+  margin: 3px 10px 10px 5px;
+}
+
+.button1 {
+  background-color: blue;
+  margin: 2px 10px 10px 5px;
+  color: white;
+  height: 30px;
+  width: 80px;
+  border: 2px solid blue;
+}
+
+.nav2 {
+  display: flex;
+  justify-content: center;
+}
+
+.googlelogo {
+  width: 300px;
+  margin-top: 120px;
+  cursor: pointer;
+}
+
+.nav3 {
+  border: 1px solid lightgrey;
+  display: flex;
+  justify-content: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 10px;
+  border-radius: 30px;
+}
+
+.sokbar {
+  width: 600px;
+  height: 40px;
+  border: 1px solid white;
+  padding: 10px;
+}
+
+.searchikon {
+  width: 14px;
+  cursor: pointer;
+}
+
+.microfone {
+  width: 12px;
+  cursor: pointer;
+}
+
+.nav4 {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  justify-content: space-around;
+}
+
+.gsearch {
+  height: 40px;
+  margin-left: 480px;
+  padding: 5px 20px 5px 20px;
+  border: 1px solid white;
+  color: lightslategray;
+}
+
+.feeling {
+  margin-right: 480px;
+  padding: 5px 20px 5px 20px;
+  border: 1px solid white;
+  color: lightslategray;
+}
+
+.nav5 {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+.nav6 {
+  display: flex;
+  justify-content: space-between;
+  background-color: lightgrey;
+  border-bottom: 1px solid grey;
+  color: grey;
+  margin-top: 145px;
+
+}
+
+.footer1 {
+  display: flex;
+  justify-content: flex-start;
+  padding: 7px 3px 7px 3px;
+  cursor: pointer;
+}
+
+.nav7 {
+  display: flex;
+  justify-content: space-between;
+  background-color: lightgrey;
+  color: grey;
+
+}
+
+.footer2 {
+  display: flex;
+  justify-content: flex-end;
+  padding: 7px 3px 0px 3px;
+}
+
+.footer3 {
+  display: flex;
+  justify-content: flex-start;
+  padding: 7px 0px 0px 0px;
+}
+
+.Advertising {
+  padding: 9px 10px 10px 0px;
+  cursor: pointer;
+}
+
+.Buisness {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.hsw {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.privacy {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.terms {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.settings {
+  padding: 10px;
+  cursor: pointer;
+}
+
+
